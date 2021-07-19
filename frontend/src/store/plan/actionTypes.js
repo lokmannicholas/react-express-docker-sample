@@ -1,0 +1,5 @@
+export const GET_PLANS = 'GET_PLANS';
+export const GET_PLANS_SUCCESS = 'GET_PLANS_SUCCESS';
+export const GET_FEATURES = 'GET_FEATURES';
+export const GET_FEATURES_SUCCESS = 'GET_FEATURES_SUCCESS';
+export const API_ERROR = 'API_ERROR';
